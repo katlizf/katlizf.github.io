@@ -2,5 +2,24 @@
   "dependencies": {
     "axios": "^0.27.2",
     "bootstrap": "^5.1.3"
-  }
+  },
+  "name": "katlizf.github.io",
+  "description": "Thanks for downloading this template!",
+  "version": "1.0.0",
+  "main": "js/main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katlizf/katlizf.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katlizf/katlizf.github.io/issues"
+  },
+  "homepage": "https://github.com/katlizf/katlizf.github.io#readme"
 }
