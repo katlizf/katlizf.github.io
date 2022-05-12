@@ -192,7 +192,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #home:before {
   content: "";
-  background: #CC5200;
+  background: #c7c9cb;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -210,14 +210,14 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: black
 }
 #home h2 {
   margin: 0 0 10px 0;
   font-size: 54px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: black
 }
 @media (min-width: 1024px) {
   #home {
@@ -344,6 +344,10 @@ section {
 .contact {
   padding-bottom: 130px;
 }
+/* div.social-icons {
+  display: flex;
+  flex-direction: row;
+} */
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
@@ -352,7 +356,7 @@ section {
   width: 3.5rem;
   /* background-color: #495057; */
   /* color: #fff; */
-  border-radius: 100%;
+  /* border-radius: 100%; */
   font-size: 1.5rem;
   margin-right: 1.5rem;
 }
@@ -365,8 +369,8 @@ section {
 .contact .info {
   padding: 30px;
   background: #fff;
-  width: 100%;
-  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  /* width: 100%; */
+  /* box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12); */
 }
 .contact .info i {
   font-size: 20px;
@@ -374,12 +378,12 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #dff3fc;
+  background: #dddfe0;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 50px;
-  transition: all 0.3s ease-in-out;
+  /* border-radius: 50px; */
+  /* transition: all 0.3s ease-in-out; */
 }
 .contact .info h4 {
   padding: 0 0 0 60px;
@@ -568,7 +572,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #040b14;
+  background: #FF9933;
 }
 #footer .copyright {
   text-align: center;
