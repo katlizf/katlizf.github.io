@@ -192,7 +192,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #home:before {
   content: "";
-  background: #c7c9cb;
+  /* background: #c7c9cb; */
   position: absolute;
   bottom: 0;
   top: 0;
