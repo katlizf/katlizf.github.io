@@ -252,7 +252,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  /* color: #b14c08; */
+  color: #b14c08;
 }
 .section-title h2::after {
   content: "";
@@ -260,7 +260,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  /* background: #FF9933; */
+  background: #FF9933;
   bottom: 0;
   left: 0;
 }
@@ -345,10 +345,10 @@ list-inline-item {
 .contact {
   padding-bottom: 130px;
 }
-/* div.social-icons {
+div.social-icons {
   display: flex;
   flex-direction: row;
-} */
+}
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
@@ -377,8 +377,8 @@ list-inline-item {
   font-size: 40px;
   color:  #F9A14A;
   float: left;
-  width: 60px;
-  height: 60px;
+  /* width: 60px; */
+  /* height: 60px; */
   /* background: #feffff; */
   display: flex;
   justify-content: center;
