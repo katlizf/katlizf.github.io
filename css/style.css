@@ -339,9 +339,10 @@ section {
 .contact {
   padding-bottom: 130px;
 }
+
 div.social-icons {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 .social-icons .social-icon {
   display: inline-flex;
@@ -390,7 +391,7 @@ div.social-icons {
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
-  font-size: 14px;
+  /* font-size: 14px; */
   color: #0c0d0e;
 }
 .contact .info .email p {
