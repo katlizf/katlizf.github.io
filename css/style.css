@@ -310,16 +310,11 @@ section {
   padding-left: 0;
   list-style: none;
 }
-list-inline-item {
-  height: 3.5rem;
-  width: 3.5rem;
-}
-
-.list-inline-item {
+/* .list-inline-item { */
   /* display: inline-block; */
-  height: 3.5rem;
-  width: 3.5rem;
-}
+  /* height: 3.5rem; */
+  /* width: 3.5rem; */
+/* } */
 .list-inline-item:not(:last-child) {
   margin-right: 0.5rem;
 }
