@@ -195,9 +195,14 @@ section {
 
 
   /* SKILLS SECTION */
-/* section#skills {
-
-} */
+.wrapper.spotlight .skills-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+}
 .wrapper.spotlight .skills-wrapper {
     height: 50px;
     width: 50px;
