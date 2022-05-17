@@ -212,11 +212,17 @@ section {
     justify-content: center;
     margin: 100px 30px 100px 100px;
 }
+.wrapper.spotlight .skills-image {
+    height: 150px;
+    width: 150px;
+    padding-bottom: 10px;
+    color: #FF9933;
+}
 .wrapper.spotlight .skills-text {
     text-align: center;
     font-size: 4vh;
     font-weight: 700;
-    color: #e7e7e7;
+    color: #0b0b0b;
 }
 
 /* PROJECTS SECTION */
