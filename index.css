@@ -224,7 +224,7 @@ section {
     font-weight: 700;
     color: #0b0b0b;
 }
-.skills-wrapper i {
+section.skills-wrapper i {
     color: #FF9933;
 }
 
@@ -240,7 +240,7 @@ section {
 .social-icons a {
     display: inline-block;
     height: 3.5rem;
-    width: 3.5rem;
+    width: 7rem;
     /* background-color: #202338; */
     color: #f0f3ff!important;
     border-radius: 100%;
