@@ -38,7 +38,7 @@ section {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #149ddd;
+    background: #b86009;
     width: 40px;
     height: 40px;
     border-radius: 50px;
@@ -50,7 +50,7 @@ section {
     line-height: 0;
 }
 .back-to-top:hover {
-    background: #2eafec;
+    background: #FF9933;
     color: #fff;
 }
 .back-to-top.active {
