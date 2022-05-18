@@ -226,6 +226,10 @@ section {
 }
 section.skills-wrapper i {
     color: #FF9933;
+    width: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 /* PROJECTS SECTION */
