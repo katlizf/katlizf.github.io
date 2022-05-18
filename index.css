@@ -2,6 +2,8 @@
 section {
     padding: 60px 0;
     overflow: hidden;
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 .section-title h2 {
     font-size: 37px;
@@ -25,6 +27,7 @@ section {
     margin-bottom: 0;
     font-size: 18px;
 }
+
 
 
 /* -----BACK TO TOP----- */
