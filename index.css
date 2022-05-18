@@ -45,9 +45,12 @@ section {
     transition: all 0.4s;
 }
 .back-to-top i {
-    font-size: 28px;
+    font-size: 30px;
     color: #fff;
-    line-height: 0;
+    line-height: 1.2;
+    text-decoration: none;
+    width: 38px;
+    /* height: 40px; */
 }
 .back-to-top:hover {
     background: #FF9933;
