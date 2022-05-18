@@ -3,9 +3,6 @@ section {
     padding: 60px 0;
     overflow: hidden;
 }
-/* .section-title {
-    padding-bottom: 30px;
-} */
 .section-title h2 {
     font-size: 37px;
     font-weight: bold;
@@ -27,11 +24,6 @@ section {
 .section-title p {
     margin-bottom: 0;
     font-size: 18px;
-}
-@media (min-width: 768px) {
-    section {
-        min-height: 100vw;
-    }
 }
 
 
