@@ -224,6 +224,9 @@ section {
     font-weight: 700;
     color: #0b0b0b;
 }
+.skills-wrapper i {
+    color: #FF9933;
+}
 
 /* PROJECTS SECTION */
 /* .d-none {
@@ -238,7 +241,7 @@ section {
     display: inline-block;
     height: 3.5rem;
     width: 3.5rem;
-    background-color: #202338;
+    /* background-color: #202338; */
     color: #f0f3ff!important;
     border-radius: 100%;
     text-align: center;
