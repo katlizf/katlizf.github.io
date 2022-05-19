@@ -78,7 +78,7 @@ section {
     margin: 15px auto;
     display: block;
     width: 120px;
-    border: 8px solid #b86009;
+    border: 8px solid #d36f0bfe;
 }
 #header .profile h1 {
     font-size: 24px;
@@ -90,7 +90,7 @@ section {
     font-family: "Poppins", sans-serif;
 }
 #header .profile h1 a, #header .profile h1 a:hover {
-    color: #FF9933;
+    color: white;
     text-decoration: none;
 }
 #main {
@@ -196,14 +196,14 @@ section {
     font-size: 64px;
     font-weight: 700;
     line-height: 56px;
-    color: black
+    color: #e07c17
 }
 #home h2 {
     margin: 0 0 10px 0;
     font-size: 54px;
     font-weight: 700;
     line-height: 56px;
-    color: black
+    color: #888899
 }
 @media (min-width: 1024px) {
     #home {
@@ -212,12 +212,12 @@ section {
 }
 @media (max-width: 768px) {
     #home h1 {
-      font-size: 28px;
-      line-height: 36px;
+      font-size: 4rem;
+      font-weight: bolder;
     }
     #home h2 {
-      font-size: 18px;
-      line-height: 24px;
+      font-size: 2.5rem !important;
+      font-weight: lighter !important;
       margin-bottom: 30px;
     }
 }
@@ -286,6 +286,7 @@ section.skills-wrapper {
     font-size: 1.5rem;
     line-height: 3.5rem;
     margin-right: 1rem;
+    margin-top: 1rem;
 }
 .name-plate {
     color: #202338;
