@@ -2,8 +2,6 @@
 section {
     padding: 60px 0;
     overflow: hidden;
-    padding-left: 3rem;
-    padding-right: 3rem;
 }
 .section-title h2 {
     font-size: 37px;
@@ -262,6 +260,7 @@ section {
 section.skills-wrapper i {
     color: #FF9933;
     padding-bottom: 1rem;
+    max-width: 15vw;
 }
 section.skills-wrapper {
     display: flex;
