@@ -1,6 +1,6 @@
   /* -----SECTIONS GENERAL----- */
 section {
-    padding: 60px 0;
+    padding: 150px 0;
     overflow: hidden;
 }
 .section-title h2 {
@@ -269,7 +269,7 @@ section.skills-wrapper {
     padding: 1.2rem;
 }
 .skills-wrapper i {
-    font-size: 4rem
+    font-size: clamp(2rem, 4rem, 5vw)
 }
 .skills-grid{
     display: flex;
