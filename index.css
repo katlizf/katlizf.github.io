@@ -265,6 +265,18 @@ section.skills-wrapper {
     font-size: 1rem;
     text-align: center;
 }
+.skills-wrapper {
+    padding: 1.2rem;
+}
+.skills-wrapper i {
+    font-size: 4rem
+}
+.skills-grid{
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap; 
+    width: 100%
+}
 
 
 /* -----FOOTER SECTION----- */
