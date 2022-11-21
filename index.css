@@ -1,6 +1,7 @@
   /* -----SECTIONS GENERAL----- */
-section {
-    padding: 150px 0;
+.section-container {
+    padding-left: 2rem;
+    padding: 150px 0 150px 2rem;
     overflow: hidden;
 }
 .section-title h2 {
@@ -25,8 +26,6 @@ section {
     margin-bottom: 0;
     font-size: 18px;
 }
-
-
 
 /* -----BACK TO TOP----- */
 .back-to-top {
@@ -224,10 +223,16 @@ section {
 
 
   /* ------ABOUT SECTION----- */
-
+#about {
+    width: 100%;
+    height: 100vh;
+}
 
 
   /* -----SKILLS SECTION------ */
+#skills {
+    padding-top: 2rem;
+}
 section.skills-wrapper i {
     color: #FF9933;
     padding-bottom: 1rem;
@@ -238,17 +243,25 @@ section.skills-wrapper {
     flex-direction: column;
     align-items: center;
 }
-
+ 
 
 
 /* -----PROJECTS SECTION------ */
+#projects {
+    padding-top: 2rem;
+}
 .d-lg-block {
     display: block !important;
 }
-.img-fluid {
+.img-projects {
     max-width: 35vw;
     margin-right: 1rem;
     margin-bottom: 1rem;
+}
+@media (max-width: 768px) {
+    .img-projects {
+        display: none;
+    }
 }
 
 
