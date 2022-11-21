@@ -245,6 +245,11 @@ section.skills-wrapper {
 .d-lg-block {
     display: block !important;
 }
+.img-fluid {
+    max-width: 35vw;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
 
 
 /* -----CONTACT SECTION----- */
