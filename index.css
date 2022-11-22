@@ -1,7 +1,6 @@
   /* -----SECTIONS GENERAL----- */
 section {
-    padding-left: 2rem;
-    padding: 150px 0 150px 2rem;
+    padding: 150px 2rem 150px 2rem;
     overflow: hidden;
 }
 .section-title h2 {
