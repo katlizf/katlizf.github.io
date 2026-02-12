@@ -249,6 +249,12 @@ section.skills-wrapper {
 #projects {
     padding-top: 2rem;
 }
+.subheading {
+    margin-bottom: .5rem;
+}
+#projects p {
+    margin-bottom: 1rem;
+}
 .d-lg-block {
     display: block !important;
 }
